@@ -65,4 +65,44 @@
         <precio>10.75</precio>
         <numPaginas>367</numPaginas>
     </libro>
+    <libro>
+        <titulo>Las algarrobas</titulo>
+        <autor>Calinic Alonso</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000001</isbn>
+        <precio>10.50</precio>
+        <numPaginas>300</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El diablo valenciano</titulo>
+        <autor>Calinic Alonso</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000002</isbn>
+        <precio>12.50</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
+    <libro>
+        <titulo>La peste negra</titulo>
+        <autor>El mago pop</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000009</isbn>
+        <precio>13.50</precio>
+        <numPaginas>148</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El coche fantasma</titulo>
+        <autor>Jayson Verstapen</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000003</isbn>
+        <precio>10.50</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
+      <libro>
+        <titulo>La pelota en llamas</titulo>
+        <autor>Jayson Verstapen</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000004</isbn>
+        <precio>60.50</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
 </libreria>

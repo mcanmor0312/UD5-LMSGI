@@ -65,4 +65,20 @@
         <precio>10.75</precio>
         <numPaginas>367</numPaginas>
     </libro>
+    <libro>
+        <titulo>Las algarrobas</titulo>
+        <autor>Calinic Alonso</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000001</isbn>
+        <precio>10.50</precio>
+        <numPaginas>300</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El diablo valenciano</titulo>
+        <autor>Calinic Alonso</autor>
+        <editor>Anaya</editor>
+        <isbn>978-0000000002</isbn>
+        <precio>12.50</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
 </libreria>
