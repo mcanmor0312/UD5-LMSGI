@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
+<catalogo>
+    <cd>
+        <titulo>La tia Pepi</titulo>
+        <artista>Carmen de mairena</artista>
+        <canciones>
+            <cancion>
+                <titulo>Pepi y las albondigas</titulo>
+                <duracion>4:30</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Pepi buscando papas</titulo>
+                <duracion>3:45</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Alfaguara</sello_discografico>
+        <anno_publicacion>2000</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Los anillos de poder</titulo>
+        <artista>Thor Jonson</artista>
+        <canciones>
+            <cancion>
+                <titulo>La muerte</titulo>
+                <duracion>5:10</duracion>
+            </cancion>
+            <cancion>
+                <titulo>En busca de merengue</titulo>
+                <duracion>4:20</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Alfaguarismundo</sello_discografico>
+        <anno_publicacion>2005</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Album Fantastico</titulo>
+        <artista>Los Soñadores</artista>
+        <canciones>
+            <cancion>
+                <titulo>Suenio de Primavera</titulo>
+                <duracion>3:55</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Noches Estrelladas</titulo>
+                <duracion>4:10</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Suenios Musicales</sello_discografico>
+        <anno_publicacion>2010</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Ritmo Latino</titulo>
+        <artista>Carlos Salsa</artista>
+        <canciones>
+            <cancion>
+                <titulo>Bailando en la Calle</titulo>
+                <duracion>4:30</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Fiesta Tropical</titulo>
+                <duracion>3:55</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Salsa Records</sello_discografico>
+        <anno_publicacion>2012</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Rock Legends</titulo>
+        <artista>The Rebels</artista>
+        <canciones>
+            <cancion>
+                <titulo>Born to Rock</titulo>
+                <duracion>4:15</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Wild Nights</titulo>
+                <duracion>3:40</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Rebel Music Group</sello_discografico>
+        <anno_publicacion>2008</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Musica Clasica en Vivo</titulo>
+        <artista>Orquesta Sinfónica Nacional</artista>
+        <canciones>
+            <cancion>
+                <titulo>Sinfonia No. 5</titulo>
+                <duracion>8:20</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Concierto para Piano No. 1</titulo>
+                <duracion>6:45</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Clasicos en Directo</sello_discografico>
+        <anno_publicacion>2015</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Exitos del Ayer</titulo>
+        <artista>Varios Artistas</artista>
+        <canciones>
+            <cancion>
+                <titulo>Yesterday</titulo>
+                <duracion>3:30</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Let It Be</titulo>
+                <duracion>4:00</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Golden Oldies Records</sello_discografico>
+        <anno_publicacion>1995</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Blue Jazz</titulo>
+        <artista>The Jazz Quartet</artista>
+        <canciones>
+            <cancion>
+                <titulo>Smooth Blues</titulo>
+                <duracion>5:20</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Jazz in the Park</titulo>
+                <duracion>4:30</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Jazz Records</sello_discografico>
+        <anno_publicacion>2019</anno_publicacion>
+    </cd>
+    <cd>
+        <titulo>Pop Sensations</titulo>
+        <artista>The Pop Stars</artista>
+        <canciones>
+            <cancion>
+                <titulo>Dancing in the Rain</titulo>
+                <duracion>3:45</duracion>
+            </cancion>
+            <cancion>
+                <titulo>Summer Love</titulo>
+                <duracion>4:10</duracion>
+            </cancion>
+        </canciones>
+        <sello_discografico>Pop Music Group</sello_discografico>
+        <anno_publicacion>2017</anno_publicacion>
+    </cd>
+</catalogo>
