@@ -14,8 +14,8 @@
                     <tr bgcolor="#557788">
                         <th>Nombre</th>
                         <th>Apellidos</th>
-                        <th>Cuestionarios</th>
                         <th>Tareas</th>
+                        <th>Cuestionarios</th>
                         <th>Examen</th>
                         <th>Final</th>
                     </tr>
@@ -30,8 +30,8 @@
     <tr>
         <td><xsl:value-of select="nombre"/></td>
         <td><xsl:value-of select="apellidos"/></td>
-        <td><xsl:value-of select="cuestionarios"/></td>
         <td><xsl:value-of select="tareas"/></td>
+        <td><xsl:value-of select="cuestionarios"/></td>
         <td><xsl:value-of select="examen"/></td>
         <td>
             <xsl:choose>
