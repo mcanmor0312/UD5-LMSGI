@@ -12,6 +12,10 @@
             <div style="text-align: center;">
                 <table border="1" bgcolor="#DEE500">
                     <tr bgcolor="#557788">
+                        <th colspan="3">Datos</th>
+                        <th colspan="3">Notas</th>
+                    </tr>
+                    <tr bgcolor="#557788">
                         <th>Nombre</th>
                         <th>Apellidos</th>
                         <th>Tareas</th>
